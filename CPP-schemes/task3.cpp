@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	std::setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "");
 	cout << "_________________________" << endl;
 	cout << "| Продам велосипед      |" << endl;
 	cout << "| Модель: Ibis Ripmo V2 |" << endl;
