@@ -8,7 +8,7 @@ if they do:
     wait until they type your name in
     say goodbye and leave
   else:
-    go home disappointed
+    ask again OR go home disappointed
 else:
   go home disappointed
     
