@@ -6,9 +6,11 @@ if they do:
   if they give it to you:
     thank them
     wait until they type your name in
-    say goodbye and leave
+    say goodbye and leave happily
+    end;
   else:
     ask again OR go home disappointed
 else:
   go home disappointed
+  end;
     
