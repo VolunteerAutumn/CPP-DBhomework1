@@ -1,0 +1,14 @@
+Enter the library
+ask the librarian whether they have the book you're looking for
+stay quiet
+if they do:
+  ask for that book
+  if they give it to you:
+    thank them
+    wait until they type your name in
+    say goodbye and leave
+  else:
+    go home disappointed
+else:
+  go home disappointed
+    
